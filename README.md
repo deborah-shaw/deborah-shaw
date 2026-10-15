@@ -1,11 +1,13 @@
 ## Hi there 👋
 
+<!--
 My name is Deborah, and I'm a recent graduate excited to apply my skills and make meaningful contributions to the industry!
 
 - 🔭 I’m currently working on building a machine learning model to predict the PPU
 - 🌱 I’m currently learning AutoML to automate and optimize machine learning workflows
 - 👯 I’m looking to collaborate with people who love tech and building meaningful solutions
 
+-->
 
 <!--
 **mkt989/mkt989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
